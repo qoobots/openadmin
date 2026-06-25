@@ -1,0 +1,12 @@
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\ConfigMarker.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\ConfigService.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\controller\ConfigController.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\dto\ConfigDTO.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\entity\ConfigItem.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\mapper\ConfigMapper.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\repository\ConfigRepository.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\repository\impl\ConfigRepositoryImpl.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\service\ConfigService.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\service\impl\ConfigServiceImpl.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\simple\SimpleConfigController.java
+D:\05workspaces\openadmin\openadmin-config\src\main\java\com\qoobot\openadmin\config\simple\SimpleConfigService.java

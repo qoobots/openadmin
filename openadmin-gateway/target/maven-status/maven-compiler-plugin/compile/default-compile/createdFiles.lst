@@ -1,0 +1,12 @@
+com\qoobot\openadmin\gateway\config\GatewayRoutesConfiguration$RouteConfig.class
+com\qoobot\openadmin\gateway\controller\GatewayAdminController.class
+com\qoobot\openadmin\gateway\filter\AuthenticationGatewayFilter.class
+com\qoobot\openadmin\gateway\config\GatewayRouterConfig.class
+com\qoobot\openadmin\gateway\filter\GatewayLoggingFilter.class
+com\qoobot\openadmin\gateway\config\GatewayRoutesConfiguration$AuthorizationConfig.class
+com\qoobot\openadmin\gateway\config\GatewayRoutesConfiguration.class
+com\qoobot\openadmin\gateway\config\GatewaySecurityConfig.class
+com\qoobot\openadmin\gateway\filter\RateLimitGatewayFilter.class
+com\qoobot\openadmin\gateway\GatewayApplication.class
+com\qoobot\openadmin\gateway\config\CircuitBreakerConfiguration.class
+com\qoobot\openadmin\gateway\config\GatewayRoutesConfiguration$LoadBalancerConfig.class
